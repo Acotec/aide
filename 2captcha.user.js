@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         2captcha
+// @name         2_Geetest
 // @namespace    Acot
-// @version      0.3
+// @version      0.4
 // @description  Solve Geetest v4 captcha with 2captcha service
 // @author       Acot
 // @updateURL    https://github.com/Acotec/aide_script/raw/master/2captcha.user.js
@@ -20,6 +20,9 @@
 // @grant        GM_registerMenuCommand
 // @run-at       document-start
 // @connect      2captcha.com
+// @connect      github.com
+// @connect      gist.github.com
+// @connect      gist.githubusercontent.com
 // @noframes
 // @require      https://github.com/Acotec/aide_script/raw/master/2captcha.user.js
 // ==/UserScript==
